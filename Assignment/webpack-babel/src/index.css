@@ -1,0 +1,13 @@
+* {
+    margin:0px;
+}
+#navbar {
+    color:rgb(247, 15, 7);
+    padding:10px;
+    font-size: 22px;
+    text-align:center;
+    background-color: rgb(9, 212, 145);
+}
+img {
+    width: 200px;
+}
